@@ -1,0 +1,7 @@
+/secrets.yaml
+/log/
+/boot/
+
+*.yaml
+!lions.yaml
+!tigers.yaml
